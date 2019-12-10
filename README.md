@@ -1,5 +1,7 @@
 # Othello-AI-Player
 
+UPLOADING SOON
+
 I made this program for my artificial intelligence course in Fall 2019, and I received all possible points for it. Its purpose is to make a program which could play the game othello using AI methods.
 
 The stipulations for the assignment were:
